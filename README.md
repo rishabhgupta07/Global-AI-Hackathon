@@ -29,18 +29,25 @@ Traditional news is often framed with selective language that distorts objective
    ```bash
    git clone [https://github.com/your-username/Global-AI-Hackathon.git](https://github.com/your-username/Global-AI-Hackathon.git)
    cd Global-AI-Hackathon
+   ```
 
 2. **Run the setup script:**
+   ```bash
    chmod +x setup.sh
    ./setup.sh
+   ```
 
 3. **Add your API Key:**
+```bash
 Create a file at .streamlit/secrets.toml and add:
-GEMINI_API_KEY = "your_api_key_here"
+GEMINI_API_KEY = "your_api_key_here" hehe
+```
 
 4. **Launch the app:**
+```bash
 source .venv/bin/activate
 python -m streamlit run app.py
+```
 
 
 ### 💡 Summary Table for Your Project Files
