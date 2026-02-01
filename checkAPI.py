@@ -2,7 +2,8 @@ from google import genai
 import os
 
 # 1. Setup your key (Replace with your actual key)
-os.environ["GEMINI_API_KEY"] = "AIzaSyBM1COWmsEXQw2oY_W73XuVIWE1iuC5ATc"
+api_key = st.secrets["GEMINI_API_KEY"]
+os.environ["GEMINI_API_KEY"] = api_key
 
 def verify_gemini():
     try:

@@ -1,0 +1,14 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Streamlit secrets & config
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Mac specific
+.DS_Store
+
+# Environment variables
+.env
