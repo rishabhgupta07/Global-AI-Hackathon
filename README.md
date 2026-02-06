@@ -1,24 +1,22 @@
-# 🛡️ NeutralizeAI: The News Debiasing Engine
+# AntibiasAI: The Debiasing Engine
 
-**NeutralizeAI** is a high-speed linguistic analysis tool built for the **Global AI Hackathon 2026**. It leverages Gemini 2.5 Flash to identify, quantify, and neutralize ideological bias in real-time news reporting.
+**AntibiasAI** is a high-speed linguistic analysis tool built for the **Global AI Hackathon 2026** organized by MIT. It leverages Gemini 2.5 Flash to identify, quantify, and neutralize ideological bias.
 
----
+## The Venture Pitch
+Traditional news/articles is often framed with selective language that distorts objective reality. **AntibiasAI** provides a "Linguistic Fingerprint" of any article, allowing researchers, corporate intelligence teams, and casual readers to strip away the "noise" and focus on the facts.
 
-## 🚀 The Venture Pitch
-Traditional news is often framed with selective language that distorts objective reality. **NeutralizeAI** provides a "Linguistic Fingerprint" of any article, allowing researchers, corporate intelligence teams, and casual readers to strip away the "noise" and focus on the facts.
-
-## ✨ Key Features
+## Key Features
 * **AI-Powered Debiasing:** Uses Gemini 2.5 Flash to rewrite biased narratives into neutral prose.
 * **Bias Fingerprinting:** A Radar Chart visualization that measures Political Leaning, Sensationalism, Subjectivity, Omission, and Tone.
 * **Streamlined Workflow:** A professional dashboard for side-by-side analysis.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Python 3.9+
 * **Framework:** [Streamlit](https://streamlit.io/)
 * **AI Model:** Google Gemini 2.5 Flash
 * **Visualization:** [Plotly](https://plotly.com/)
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 * Python installed on your Mac.
