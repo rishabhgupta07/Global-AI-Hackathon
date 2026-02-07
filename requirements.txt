@@ -1,3 +1,13 @@
-streamlit
-google-generativeai
-plotly
+# AI & Core Logic
+google-genai>=0.6.0
+python-dotenv>=1.0.1
+
+# Frontend & Dashboard
+streamlit>=1.53.0
+
+# Data & Visualization
+plotly>=6.0.0
+pandas>=2.2.0
+
+# Text Extraction (If you add PDF support later)
+PyPDF2>=3.0.0
